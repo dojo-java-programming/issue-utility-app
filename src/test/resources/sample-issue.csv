@@ -1,0 +1,3 @@
+issue-id; issue-type; priority; status; creation-date; description
+sample-10; bug; medium; open; 2015.10.30; This seams to happen
+sample-12; improvement; low; open; 2015.11.15; It would be nice if...
