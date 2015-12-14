@@ -5,7 +5,7 @@ __Action Plan__
 - Define a To Do List in MarkDown
 - Define a Java Project
 - Add Maven configuration
-- Add Git repository
+- Create local Git repository
 - Add README
 - Share git repository
 - Creating Unit Test
